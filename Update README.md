@@ -9,4 +9,6 @@ Subindo a aplicação no container app
 Criando o docker file
 ![Texto Alternativo](Screenshot_20260309_150719_Chrome.jpg)
 Criando o Resource Group e o Container Registry
-![Texto Alternativo](Screenshot_20260309_150719_Chrome.jpg)
+![Texto Alternativo](Screenshot_20260309_150914_Chrome.jpg)
+Login no ACR
+![Texto Alternativo](Screenshot_20260309_150914_Chrome.jpg)
