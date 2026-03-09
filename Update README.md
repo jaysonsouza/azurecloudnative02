@@ -11,4 +11,5 @@ Criando o docker file
 Criando o Resource Group e o Container Registry
 ![Texto Alternativo](Screenshot_20260309_150914_Chrome.jpg)
 Login no ACR
-![Texto Alternativo](Screenshot_20260309_150914_Chrome.jpg)
+![Texto Alternativo](Screenshot_20260309_151014_Chrome.jpg)
+Finalizando o projeto.
